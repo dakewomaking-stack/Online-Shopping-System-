@@ -1,2 +1,2 @@
 # Online-Shopping-System-
-this is online shopping system by using java and MySQL 
+This is online shopping system that is worked by using of java and MySQL 
